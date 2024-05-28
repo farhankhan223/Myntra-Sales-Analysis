@@ -1,5 +1,4 @@
 # Myntra-Sales-Analysis
-![Alt text](C:\Users\Admin\Pictures\Screenshots?raw=true "Title")
 This project was designed to provide deep insights into our sales performance and identify key areas for growth and improvement.
  
 Here are some of the standout findings:
